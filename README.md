@@ -37,20 +37,20 @@ json
 ## Installation
 
 1. Clone the repository:
-   sh
+   
    git clone <repo-url>
    cd react-native-user-data-app
 
 2. Install dependencies:
-   sh
+   
    npm install
 
 3. Start the Metro Bundler:
-   sh
+   
    npx react-native start
 
 4. Run the app:
-   sh
+   
    npx react-native run-android  # For Android
    npx react-native run-ios      # For iOS
 
